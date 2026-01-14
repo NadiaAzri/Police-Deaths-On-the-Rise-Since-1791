@@ -103,9 +103,9 @@ This dashboard serves multiple audiences:
 ## Repository Contents
 
 - `police_deaths_dashboard.twbx` - Tableau workbook file
-- `data/` - Source data files
-- `images/` - Dashboard screenshots
-- `README.md` - This file
+- Source data files
+- Dashboard screenshots
+- This file
 
 ## Contributing
 
