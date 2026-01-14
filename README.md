@@ -91,7 +91,7 @@ This dashboard serves multiple audiences:
 
 ## Tableau Public Link
 
-[View Interactive Dashboard on Tableau Public](#https://public.tableau.com/views/USPoliceDeathsOntheRiseSince1791/PoliceDeathsintheU_S_17912022TrendsCausesandGeography?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/USPoliceDeathsOntheRiseSince1791/PoliceDeathsintheU_S_17912022TrendsCausesandGeography?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to Use
 
